@@ -1,0 +1,41 @@
+Consent Status;Location Code;Cookie Category;Client Os Family
+GRANTED;http://cliente1.com.br/;Essential;android
+DECLINED;http://cliente1.com.br/;Advertising;android
+WITHDRAWN;https://testeCliente1.com.br;Analytics & Customization;ios
+WITHDRAWN;http://cliente1.com.br/;Performance & Functionality;ios
+WITHDRAWN;http://cliente1.com.br/;Performance & Functionality;ios
+WITHDRAWN;http://cliente1.com.br/;Essential;ubuntu
+WITHDRAWN;http://cliente1.com.br/;Advertising;red hat
+NOACTION;http://cliente1.com.br/;Analytics & Customization;red hat
+GRANTED;https://testeCliente1.com.br;Performance & Functionality;android
+DECLINED;https://testeCliente1.com.br;Essential;chrome os
+WITHDRAWN;http://cliente1.com.br/;Essential;linux
+NOACTION;https://testeCliente1.com.br;Advertising;linux
+GRANTED;http://cliente1.com.br/;Analytics & Customization;windows
+DECLINED;http://cliente1.com.br/;Analytics & Customization;windows
+WITHDRAWN;https://testeCliente1.com.br;Analytics & Customization;windows
+NOACTION;http://cliente1.com.br/;Essential;red hat
+GRANTED;http://cliente1.com.br/;Advertising;android
+DECLINED;https://testeCliente1.com.br;Analytics & Customization;chrome os
+WITHDRAWN;http://cliente1.com.br/;Performance & Functionality;ios
+NOACTION;http://cliente1.com.br/;Analytics & Customization;linux
+GRANTED;https://testeCliente1.com.br;Analytics & Customization;windows
+GRANTED;http://cliente1.com.br/;Analytics & Customization;ubuntu
+GRANTED;http://cliente1.com.br/;Analytics & Customization;other
+GRANTED;http://cliente1.com.br/;Performance & Functionality;chrome os
+GRANTED;http://cliente1.com.br/;Performance & Functionality;chrome os
+DECLINED;http://cliente1.com.br/;Essential;chrome os
+WITHDRAWN;https://testeCliente1.com.br;Essential;ios
+DECLINED;http://cliente1.com.br/;Essential;linux
+DECLINED;http://cliente1.com.br/;Essential;windows
+DECLINED;https://testeCliente1.com.br;Essential;other
+WITHDRAWN;http://cliente1.com.br/;Essential;other
+NOACTION;http://cliente1.com.br/;Essential;red hat
+GRANTED;https://testeCliente1.com.br;Essential;red hat
+DECLINED;https://testeCliente1.com.br;Essential;chrome os
+WITHDRAWN;https://testeCliente1.com.br;Analytics & Customization;ios
+NOACTION;https://testeCliente1.com.br;Essential;linux
+GRANTED;http://cliente1.com.br/;Performance & Functionality;windows
+NOACTION;http://cliente1.com.br/;Performance & Functionality;ubuntu
+NOACTION;http://cliente1.com.br/;Performance & Functionality;ubuntu
+NOACTION;http://cliente1.com.br/;Analytics & Customization;ubuntu
